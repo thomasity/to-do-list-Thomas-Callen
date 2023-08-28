@@ -1,1 +1,2 @@
-# to-do-list-Thomas-Callen
+# Tommy's To-Do List Website
+### This project was made through HTML, CSS, and JavaScript because I don't know how to make an actual app...
